@@ -7,7 +7,7 @@ const bricks: types.Brick<any>[] = [
   ...website, // React Bricks UI
   ...blog,
   HeroUnit, // Example custom brick
-  // Put here your other bricks...
+  // Put here your other bricks....
 ]
 
 export default bricks
